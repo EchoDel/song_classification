@@ -1,2 +1,4 @@
 *.p
 playlists/
+
+.ipynb_checkpoints/
